@@ -1,0 +1,507 @@
+{
+  "posts": [
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "discussionId": 56,
+      "likes": 8,
+      "dislikes": 7,
+      "id": 1
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "discussionId": 56,
+      "likes": 7,
+      "dislikes": 8,
+      "id": 2
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "discussionId": 56,
+      "likes": 2,
+      "dislikes": 3,
+      "id": 3
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "discussionId": 56,
+      "likes": 3,
+      "dislikes": 1,
+      "id": 4
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "id": 8,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 58
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "id": 9,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 58
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "id": 10,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 58
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "123",
+      "id": 11,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 59
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "I",
+      "id": 12,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 60
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "test",
+      "id": 13,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 61
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "test 2",
+      "id": 14,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 62
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "test",
+      "id": 15,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 63
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "hi",
+      "id": 16,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 64
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "Hi there! This is to test subserver1",
+      "id": 17,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 65
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "1",
+      "id": 18,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 66
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "2",
+      "id": 19,
+      "dislikes": 0,
+      "discussionId": 67
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "test post",
+      "id": 20,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 68
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "test post",
+      "id": 21,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 69
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "",
+      "id": 22,
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 69
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "testBody",
+      "postId": 2
+    },
+    {
+      "body": "testBody",
+      "postId": 3,
+      "id": 3
+    },
+    {
+      "body": "testBody",
+      "postId": 4,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "usertest1",
+      "password": "123456",
+      "remember": true
+    },
+    {
+      "username": "user123",
+      "password": "123456",
+      "remember": true,
+      "id": 2
+    },
+    {
+      "username": "123",
+      "password": "123",
+      "remember": true,
+      "id": 3
+    },
+    {
+      "username": "123123",
+      "password": "123123",
+      "remember": true,
+      "id": 4
+    },
+    {
+      "username": "123",
+      "password": "11111",
+      "remember": true,
+      "id": 5
+    },
+    {
+      "username": "123",
+      "password": "123",
+      "remember": true,
+      "id": 6
+    }
+  ],
+  "servers": [
+    {
+      "id": 1,
+      "title": "WPI Lifestyle"
+    },
+    {
+      "id": 2,
+      "title": "WPI Study"
+    },
+    {
+      "id": 3,
+      "title": "Fun things sharing place"
+    },
+    {
+      "title": "my first server",
+      "id": 4
+    },
+    {
+      "title": "my second server",
+      "id": 5
+    }
+  ],
+  "subservers": [
+    {
+      "id": 14,
+      "title": "Free Chatting",
+      "serverId": 1
+    },
+    {
+      "id": 15,
+      "title": "Foods",
+      "serverId": 1
+    },
+    {
+      "id": 16,
+      "title": "Games",
+      "serverId": 1
+    },
+    {
+      "id": 17,
+      "title": "Sports",
+      "serverId": 1
+    },
+    {
+      "id": 18,
+      "title": "Musics",
+      "serverId": 1
+    },
+    {
+      "id": 19,
+      "title": "Welcome",
+      "serverId": 2
+    },
+    {
+      "id": 20,
+      "title": "Courses",
+      "serverId": 2
+    },
+    {
+      "id": 21,
+      "title": "Project help",
+      "serverId": 2
+    },
+    {
+      "id": 22,
+      "title": "Free Chatting",
+      "serverId": 3
+    },
+    {
+      "id": 23,
+      "title": "Memes",
+      "serverId": 3
+    },
+    {
+      "id": 24,
+      "title": "Pictures",
+      "serverId": 3
+    },
+    {
+      "id": 25,
+      "title": "Videos",
+      "serverId": 3
+    },
+    {
+      "title": "sub1",
+      "serverId": 4,
+      "id": 26
+    },
+    {
+      "title": "Nintendo",
+      "serverId": 4,
+      "id": 27
+    },
+    {
+      "title": "Sony",
+      "serverId": 4,
+      "id": 28
+    },
+    {
+      "title": "programming",
+      "serverId": 5,
+      "id": 29
+    },
+    {
+      "title": "Java",
+      "serverId": 5,
+      "id": 30
+    },
+    {
+      "title": "react",
+      "serverId": 5,
+      "id": 31
+    }
+  ],
+  "discussions": [
+    {
+      "id": 56,
+      "title": "How to improve canteen meals",
+      "description": "some description about food",
+      "subserverId": 14
+    },
+    {
+      "id": 58,
+      "title": "How to delete canteen meals",
+      "description": "some description about food",
+      "subserverId": 16
+    },
+    {
+      "id": 59,
+      "title": "What to improve canteen meals",
+      "description": "some description about food",
+      "subserverId": 16
+    },
+    {
+      "id": 60,
+      "title": "What to get canteen meals",
+      "description": "some description about food",
+      "subserverId": 18
+    },
+    {
+      "id": 61,
+      "title": "What to delete canteen meals",
+      "description": "some description about food",
+      "subserverId": 18
+    },
+    {
+      "id": 62,
+      "title": "Where to improve canteen meals",
+      "description": "some description about food",
+      "subserverId": 19
+    },
+    {
+      "id": 63,
+      "title": "Where to get canteen meals",
+      "description": "some description about food",
+      "subserverId": 19
+    },
+    {
+      "id": 64,
+      "title": "Where to delete canteen meals",
+      "description": "some description about food",
+      "subserverId": 19
+    },
+    {
+      "subserverId": 24,
+      "title": "I finished it!",
+      "description": "this is a good news",
+      "id": 65
+    },
+    {
+      "subserverId": 24,
+      "title": "the project will be better",
+      "description": "I am working",
+      "id": 66
+    },
+    {
+      "subserverId": 24,
+      "title": "this time I will be successed",
+      "description": "Please!!!",
+      "id": 67
+    },
+    {
+      "subserverId": 26,
+      "title": "Let's play games",
+      "description": "good games",
+      "id": 68
+    },
+    {
+      "subserverId": 17,
+      "title": "football",
+      "description": "football is a great game",
+      "id": 69
+    }
+  ],
+  "savedServers": [],
+  "savedComments": [
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "discussionId": 56,
+      "likes": 8,
+      "dislikes": 7,
+      "savedCommentId": 1,
+      "id": 1
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "discussionId": 56,
+      "likes": 7,
+      "dislikes": 8,
+      "savedCommentId": 2,
+      "id": 2
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "123",
+      "src": "https://joeschmoe.io/api/v1/random",
+      "discussionId": 56,
+      "likes": 2,
+      "dislikes": 3,
+      "savedCommentId": 3,
+      "id": 3
+    },
+    {
+      "title": "testTitle",
+      "author": "testAuthor",
+      "msg": "I",
+      "discussionId": 60,
+      "likes": 0,
+      "dislikes": 0,
+      "savedCommentId": 12,
+      "id": 4
+    }
+  ],
+  "savedDiscussions": [
+    {
+      "subserverId": 18,
+      "title": "What to get canteen meals",
+      "description": "some description about food",
+      "savedDiscussionId": 60,
+      "id": 1
+    },
+    {
+      "subserverId": 18,
+      "title": "What to delete canteen meals",
+      "description": "some description about food",
+      "savedDiscussionId": 61,
+      "id": 2
+    },
+    {
+      "subserverId": 14,
+      "title": "How to improve canteen meals",
+      "description": "some description about food",
+      "savedDiscussionId": 56,
+      "id": 3
+    }
+  ]
+}
