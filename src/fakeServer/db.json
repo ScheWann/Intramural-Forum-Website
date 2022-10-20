@@ -176,6 +176,16 @@
       "likes": 0,
       "dislikes": 0,
       "discussionId": 69
+    },
+    {
+      "title": "testTitle",
+      "author": "Olivia",
+      "msg": "are you sure that?",
+      "src": "https://joeschmoe.io/api/v1/joe",
+      "likes": 0,
+      "dislikes": 0,
+      "discussionId": 56,
+      "id": 23
     }
   ],
   "comments": [
@@ -446,8 +456,8 @@
     {
       "title": "json-server",
       "author": "typicode",
-      "msg": "123",
-      "src": "https://joeschmoe.io/api/v1/random",
+      "msg": "As someone who grew up in poverty, this happened to me for over a decade once I got out in the world and started making my own money. I had to teach myself control.",
+      "src": "https://joeschmoe.io/api/v1/jeane",
       "discussionId": 56,
       "likes": 8,
       "dislikes": 7,
@@ -456,9 +466,9 @@
     },
     {
       "title": "json-server",
-      "author": "typicode",
-      "msg": "123",
-      "src": "https://joeschmoe.io/api/v1/random",
+      "author": "typiyu",
+      "msg": "All of the BK kids got fat. All of them. The Subway kids seemed like a 50/50 split.",
+      "src": "https://joeschmoe.io/api/v1/jodi",
       "discussionId": 56,
       "likes": 7,
       "dislikes": 8,
@@ -467,9 +477,9 @@
     },
     {
       "title": "testTitle",
-      "author": "testAuthor",
-      "msg": "123",
-      "src": "https://joeschmoe.io/api/v1/random",
+      "author": "quetional",
+      "msg": "Same here, got pretty chubby once I was on my own and had disposable income",
+      "src": "https://joeschmoe.io/api/v1/james",
       "discussionId": 56,
       "likes": 2,
       "dislikes": 3,
@@ -478,13 +488,36 @@
     },
     {
       "title": "testTitle",
-      "author": "testAuthor",
+      "author": "Jakkkkkeeer",
       "msg": "I",
+      "src": "https://joeschmoe.io/api/v1/jean",
       "discussionId": 60,
       "likes": 0,
       "dislikes": 0,
       "savedCommentId": 12,
       "id": 4
+    },
+    {
+      "title": "testTitle",
+      "author": "Olivia",
+      "msg": "are you sure that????",
+      "src": "https://joeschmoe.io/api/v1/joe",
+      "discussionId": 56,
+      "likes": 0,
+      "dislikes": 0,
+      "savedCommentId": 23,
+      "id": 5
+    },
+    {
+      "title": "testTitle",
+      "author": "Olivia",
+      "msg": "are you sure that?",
+      "src": "https://joeschmoe.io/api/v1/joe",
+      "discussionId": 56,
+      "likes": 0,
+      "dislikes": 0,
+      "savedCommentId": 23,
+      "id": 6
     }
   ],
   "savedDiscussions": [

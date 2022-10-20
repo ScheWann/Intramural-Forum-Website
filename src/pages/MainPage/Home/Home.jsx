@@ -71,8 +71,9 @@ const Home = () => {
     const pushContents = (msg) => {
         axios.post(`http://localhost:3000/posts`, {
             title: 'testTitle',
-            author: 'testAuthor',
+            author: 'Olivia',
             msg: msg,
+            src:'https://joeschmoe.io/api/v1/joe',
             likes: 0,
             dislikes: 0,
             discussionId: location.state.id

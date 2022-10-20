@@ -12,6 +12,9 @@
 - cd fakeServer
 - json-server --watch db.json
 
+# DEMO
+<img alt="Demo" src="./src/images/replyDemo.gif" />
+
 # Some screenshots
 <h3>Login</h3>
 <img alt="Demo" src="./src/images/wpi.png" />
