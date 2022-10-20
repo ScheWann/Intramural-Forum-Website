@@ -13,15 +13,15 @@
 - json-server --watch db.json
 
 # Some screenshots
-<h4>Login</h4>
+<h3>Login</h3>
 <img alt="Demo" src="./src/images/wpi.png" />
-<h4>Forum</h4>
+<h3>Forum</h3>
 <img alt="Demo" src="./src/images/Forum.png" />
-<h4>Profile</h4>
+<h3>Profile</h3>
 <img alt="Demo" src="./src/images/profile.png" />
 
 # ER diagram and description
-<img alt="Demo" src="./src/images/ERD.png" />
+<img alt="Demo" src="./src/images/erd.png" />
 
 - Every user will be allocated to a role and get authorities
 - Every user will get an account by register
