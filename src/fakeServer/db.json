@@ -2,29 +2,29 @@
   "posts": [
     {
       "title": "json-server",
-      "author": "typicode",
-      "msg": "123",
-      "src": "https://joeschmoe.io/api/v1/random",
+      "author": "kenlasalle",
+      "msg": "As someone who grew up in poverty, this happened to me for over a decade once I got out in the world and started making my own money. I had to teach myself control.",
+      "src": "https://joeschmoe.io/api/v1/jana",
       "discussionId": 56,
-      "likes": 8,
+      "likes": 9,
       "dislikes": 7,
       "id": 1
     },
     {
       "title": "json-server",
-      "author": "typicode",
-      "msg": "123",
-      "src": "https://joeschmoe.io/api/v1/random",
+      "author": "Collinnn7",
+      "msg": "Same here, got pretty chubby once I was on my own and had disposable income",
+      "src": "https://joeschmoe.io/api/v1/jon",
       "discussionId": 56,
       "likes": 7,
-      "dislikes": 8,
+      "dislikes": 9,
       "id": 2
     },
     {
       "title": "testTitle",
-      "author": "testAuthor",
-      "msg": "123",
-      "src": "https://joeschmoe.io/api/v1/random",
+      "author": "BrownShadow",
+      "msg": "First real job was at a golf course mowing during college. Out of my parents house on my own. All the free fried food and craft beer you could handle. Gained 50 pounds pretty quickly",
+      "src": "https://joeschmoe.io/api/v1/jess",
       "discussionId": 56,
       "likes": 2,
       "dislikes": 3,
@@ -32,9 +32,9 @@
     },
     {
       "title": "testTitle",
-      "author": "testAuthor",
-      "msg": "123",
-      "src": "https://joeschmoe.io/api/v1/random",
+      "author": "ok_but",
+      "msg": "All of the BK kids got fat. All of them. The Subway kids seemed like a 50/50 split.",
+      "src": "https://joeschmoe.io/api/v1/joe",
       "discussionId": 56,
       "likes": 3,
       "dislikes": 1,
@@ -239,6 +239,12 @@
       "password": "123",
       "remember": true,
       "id": 6
+    },
+    {
+      "username": "123",
+      "password": "123",
+      "remember": true,
+      "id": 7
     }
   ],
   "servers": [
@@ -483,6 +489,7 @@
   ],
   "savedDiscussions": [
     {
+      "src": "https://joeschmoe.io/api/v1/Joe",
       "subserverId": 18,
       "title": "What to get canteen meals",
       "description": "some description about food",
@@ -490,6 +497,7 @@
       "id": 1
     },
     {
+      "src": "https://joeschmoe.io/api/v1/Jess",
       "subserverId": 18,
       "title": "What to delete canteen meals",
       "description": "some description about food",
@@ -497,6 +505,7 @@
       "id": 2
     },
     {
+      "src": "https://joeschmoe.io/api/v1/Jai",
       "subserverId": 14,
       "title": "How to improve canteen meals",
       "description": "some description about food",

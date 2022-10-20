@@ -11,3 +11,6 @@
 - cd src
 - cd fakeServer
 - json-server --watch db.json
+
+# Some pictures
+- 123[src/images/WPIlogo.jpeg]
