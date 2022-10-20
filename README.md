@@ -13,7 +13,26 @@
 - json-server --watch db.json
 
 # Some screenshots
+<h4>Login</h4>
+<img alt="Demo" src="./src/images/wpi.png" />
+<h4>Forum</h4>
 <img alt="Demo" src="./src/images/Forum.png" />
-- [login](https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/wpi.png)
-- [Forum](https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/Forum.png)
-- [profile](https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/profile.png)
+<h4>Profile</h4>
+<img alt="Demo" src="./src/images/profile.png" />
+
+# ER diagram and description
+<img alt="Demo" src="./src/images/ERD.png" />
+
+- Every user will be allocated to a role and get authorities
+- Every user will get an account by register
+- Users could follow and get followers
+- Every user will get some system message from the administer
+- Every user who has registered could give feedback to the system
+- Every user could create and participate in Servers
+- The user who creates the server could publish announcements and create subservers
+- The user who creates the server could set the privacy to invisible to professors
+- Every user who has registered could create their discussion under the subserver
+- Every user who has registered could save, report, and subscribe to discussions
+- Every user who has registered could save, report, and subscribe to comments
+- Every user could receive every reply that under own replies
+
