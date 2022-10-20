@@ -21,7 +21,7 @@
 <img alt="Demo" src="./src/images/profile.png" />
 
 # ER diagram and description
-<img alt="Demo" src="./src/images/erd.png" />
+<img alt="Demo" src="./src/images/ERD.png" />
 
 - Every user will be allocated to a role and get authorities
 - Every user will get an account by register
