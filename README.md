@@ -12,7 +12,7 @@
 - cd fakeServer
 - json-server --watch db.json
 
-# Some screen-shoots
-- login[https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/wpi.png]
-- Forum[https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/Forum.png]
-- profile[https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/profile.png]
+# Some screenshots
+- [login](https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/wpi.png)
+- [Forum](https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/Forum.png)
+- [profile](https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/profile.png)
