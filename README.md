@@ -13,6 +13,7 @@
 - json-server --watch db.json
 
 # Some screenshots
+<img alt="Demo" src="./src/images/Forum.png" />
 - [login](https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/wpi.png)
 - [Forum](https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/Forum.png)
 - [profile](https://github.com/ScheWann/Intramural-Forum-Website/blob/main/src/images/profile.png)
