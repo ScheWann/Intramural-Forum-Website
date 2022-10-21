@@ -5,12 +5,14 @@
 - Some comments do not want to be seen by professor? No worry, you can create a secret discussion blocked professors!
 
 # Using
-- git clone https://github.com/ScheWann/Intramural-Forum-Website.git
-- cd Intramural-Forum-Website
-- npm install
-- cd src
-- cd fakeServer
-- json-server --watch db.json
+``` Bash ```
+git clone https://github.com/ScheWann/Intramural-Forum-Website.git
+cd Intramural-Forum-Website
+npm install
+cd src
+cd fakeServer
+json-server --watch db.json
+```
 
 # DEMO
 <img alt="Demo" src="./src/images/replyDemo.gif" />
