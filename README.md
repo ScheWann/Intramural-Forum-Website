@@ -7,20 +7,15 @@
 # Using
 ```
 git clone https://github.com/ScheWann/Intramural-Forum-Website.git
-```
-```
+
 cd Intramural-Forum-Website
-```
-```
+
 npm install
-```
-```
+
 cd src
-```
-```
+
 cd fakeServer
-```
-```
+
 json-server --watch db.json
 ```
 
